@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Now let's create a quick fix for the navigation links by updating the dashboard layout to handle missing pages gracefully:
 
-```typescriptreact file="app/components/dashboard-layout.tsx"
+\`\`\`typescriptreact file="app/components/dashboard-layout.tsx"
 [v0-no-op-code-block-prefix]"use client"
 
 import type React from "react"
